@@ -2,8 +2,6 @@
 
 ### Repository Breakdown
 
-Test change
-
 - [INDEX.md](./INDEX.md) records all papers read + key takeaways from each paper.
 
 - [Papers/](./Papers/) is a record of the annotated papers used mentioned in the index. 
